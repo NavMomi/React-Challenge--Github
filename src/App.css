@@ -1,0 +1,40 @@
+body{
+  background-color: #D5EEBB;
+}
+h1{
+  text-align: center;
+  color:#A62349;
+  margin-top: 30px;
+}
+.input-class{
+  margin:40px 0 0 25% ;
+  width: 50%;
+}
+.img-user{
+  width:250px;
+  border-radius:50% ;
+  margin-top: 20px;
+}
+.list-1{
+  width: 50%;
+  height: auto;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+.user{
+  display:flex;
+  justify-content:center;
+  }
+  strong{
+    color: #232931;
+  }
+  h2{
+    margin-top: 100px;
+    margin-left: 200px;
+    color:#091353;
+  }
+  .list-2{
+    width: 50%;
+    height: auto;
+    margin-left: 36%;
+  }
